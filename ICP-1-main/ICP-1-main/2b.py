@@ -1,6 +1,0 @@
-a = int(input("enter num1: "))
-b = int(input("enter num2: "))
-print("sum=", a + b)
-print("sub=", a - b)
-print("mul=", a * b)
-print("div=", a / b)
